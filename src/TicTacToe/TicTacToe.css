@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+h3{
+    margin-top: 5rem;
+    text-transform: capitalize;
+    color: lime;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+td{
+    
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    color: orangered;
+    font-weight: bold;
+    font-size:70px;
+    box-shadow: lime 0px 0px 0px 1px, lime 0px 2px 2px -1px, lime 0px 2px 0px;
+}
+p{
+    margin-top: 3rem;
+    color: whitesmoke;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+button{
+    background-color:orangered;
+    color: white;
+    padding:15px;
+    border-radius: 10px;
+    width: 205px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
